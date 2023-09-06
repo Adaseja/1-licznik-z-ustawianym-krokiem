@@ -11,7 +11,7 @@ const App = () => {
     <div className="App">
       <h1>Licznik z krokiem</h1>
       <Counter />
-      <Step onStepChange={setStep} />
+      
     </div>
   );
 };
